@@ -1,0 +1,29 @@
+# PyCharm
+build/
+.idea/
+*.iml
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+
+# Dados sensíveis
+.env
+*.key
+*.pem
+
+# Outputs gerados
+*.xlsx
+*.pdf
+*.log
+
+# Sistema operacional
+.DS_Store (Mac)
+Thumbs.db (Windows)
